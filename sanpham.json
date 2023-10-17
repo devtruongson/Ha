@@ -1,36 +1,40 @@
 {
     "sanphams": [
-      {
-        "id": 1,
-        "name": "Cafe trung nguyên",
-        "subject": "Cà phê ngon nhất việt nam",
-        "body": "Cà phê ngon nhất việt nam",
-        "categories": 1
-        ,"img":"anh1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Cafe nestee",
-        "subject": "Cà phê ngon nhì việt nam",
-        "body": "Cà phê ngon nhì việt nam",
-        "categories": 2
-        ,"img":"anh2.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Cafe sơn la",
-        "subject": "Cafe sơn la",
-        "body": "Cafe sơn la",
-        "categories": 3
-        ,"img":"anh3.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Cafe chồn",
-        "subject": "Cafe chồn ngon nhất thế giới",
-        "body": "Cafe chồn ngon nhất thế giới",
-        "categories": 4
-        ,"img":"anh4.jpg"
-      }
+        {
+            "id": 1,
+            "name": "Cafe trung nguyên",
+            "subject": "Cà phê ngon nhất việt nam",
+            "body": "Cà phê ngon nhất việt nam",
+            "categories": 1,
+            "img": "service-1.svg",
+            "data_color": "#6C6CE5"
+        },
+        {
+            "id": 2,
+            "name": "Cafe nestee",
+            "subject": "Cà phê ngon nhì việt nam",
+            "body": "Cà phê ngon nhì việt nam",
+            "categories": 2,
+            "img": "service-2.svg",
+            "data_color": "#F9D74C"
+        },
+        {
+            "id": 3,
+            "name": "Cafe sơn la",
+            "subject": "Cafe sơn la",
+            "body": "Cafe sơn la",
+            "categories": 3,
+            "img": "service-3.svg",
+            "data_color": "#F97B8B"
+        },
+        {
+            "id": 4,
+            "name": "Cafe chồn",
+            "subject": "Cafe chồn ngon nhất thế giới",
+            "body": "Cafe chồn ngon nhất thế giới",
+            "categories": 4,
+            "img": "service-3.svg",
+            "data_color": "#F97B8B"
+        }
     ]
 }
