@@ -6,7 +6,7 @@
             "subject": "Cà phê ngon nhất việt nam",
             "body": "Cà phê ngon nhất việt nam",
             "categories": 1,
-            "img": "service-1.svg",
+            "img": "https://capherangxay.vn/wp-content/uploads/2019/11/mua-cafe-trung-nguyen-2-1024x576.jpg",
             "data_color": "#6C6CE5"
         },
         {
@@ -15,7 +15,7 @@
             "subject": "Cà phê ngon nhì việt nam",
             "body": "Cà phê ngon nhì việt nam",
             "categories": 2,
-            "img": "service-2.svg",
+            "img": "https://vandinhmart.com/wp-content/uploads/2022/08/Cafe-Nestle-3in1.jpg",
             "data_color": "#F9D74C"
         },
         {
@@ -24,7 +24,7 @@
             "subject": "Cafe sơn la",
             "body": "Cafe sơn la",
             "categories": 3,
-            "img": "service-3.svg",
+            "img": "https://cdnphoto.dantri.com.vn/BhKacKYmAJMX9g-EaFl4VCKEE3E=/thumb_w/960/2021/05/25/bai-pr-so-2-docx-1621905833202.jpeg",
             "data_color": "#F97B8B"
         },
         {
@@ -33,7 +33,7 @@
             "subject": "Cafe chồn ngon nhất thế giới",
             "body": "Cafe chồn ngon nhất thế giới",
             "categories": 4,
-            "img": "service-3.svg",
+            "img": "https://cdn.tgdd.vn/Files/2020/11/20/1308165/ca-phe-chon-la-gi-cach-pha-ca-phe-chon-thom-ngon-dung-dieu-202206061429595886.jpg",
             "data_color": "#F97B8B"
         }
     ]
